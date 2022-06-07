@@ -18,6 +18,7 @@ signal strength.
     2. Pass it in a high-pass filter with a trimmer at 200 Hz - upload the file
     3. Add the noise and resonance and upload the file.
     4. Recover the file using rls filter - and upload the recovered file
+# PLOTS:
 # Recording plot
 ![image](https://user-images.githubusercontent.com/73634261/172313544-a50c3f92-4a73-4bef-8996-88a2b2da54cf.png)
 # Gaussian White Noise
